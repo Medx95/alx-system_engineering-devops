@@ -1,1 +1,1 @@
-Readme file
+this the Readme file for shell basics
